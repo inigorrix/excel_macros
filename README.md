@@ -1,5 +1,4 @@
 # VBA macros for Excel
-===
 
 A little bit of code I wrote to improve my workflow with some functions I thought Excel was missing
 
